@@ -1,0 +1,22 @@
+.header img {
+    height: 80px;
+}
+
+.header nav {
+    line-height: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 10px;
+    color: black;
+    padding: 10px;
+}
+
+nav a:hover {
+    background-color: white;
+}
+
+div .navItem {
+    float: left;
+}
